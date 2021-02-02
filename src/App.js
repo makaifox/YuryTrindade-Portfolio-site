@@ -5,6 +5,7 @@ import Navbar from "./components/Navbar";
 import Header from "./components/Header";
 import { faCircle } from '@fortawesome/free-solid-svg-icons';
 import Sobre from "./components/Sobre"
+import Services from "./components/Services"
 
 function App() {
   return (
@@ -33,6 +34,7 @@ function App() {
       <Navbar />
       <Header />
       <Sobre />
+      <Services />
    </>
   )
 }
