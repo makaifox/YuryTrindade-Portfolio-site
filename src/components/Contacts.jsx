@@ -11,44 +11,39 @@ const Contacts = () => {
                 <div className="row">
                     <div className="col-md-6 col-xs-12">
                         <input 
-                            id="name"
-                            type="text"
+                         type="text"
                             name="Nome" 
                             placeholder="Nome" 
-                            ClassName="form-control"
+                            className="form-control"
                         />
 
                         <input 
-                            id="phone"
-                            type="text"
+                          type="text"
                             phone="Telefone" 
                             placeholder="Telefone" 
-                            ClassName="form-control"
+                            className="form-control"
                         />
                         
                         <input 
-                            id="email"
-                            type="email"
+                          type="email"
                             email="email" 
                             placeholder="E-mail" 
-                            ClassName="form-control"
+                            className="form-control"
                         />
 
                         <input 
-                            id="subject"
                             type="text"
-                            subject="enviar" 
-                            placeholder="Enviar" 
-                            ClassName="form-control"
+                            subject="titulo" 
+                            placeholder="titulo" 
+                            className="form-control"
                         />
                     </div>
                     <div className="col-md-6 col-xs-12">
                         <textarea 
-                            id="description"
-                            type="text"
-                            subject="enviar" 
-                            placeholder="Enviar" 
-                            ClassName="form-control"
+                                type="text"
+                            subject="mensagem" 
+                            placeholder="Insira sua mensagem" 
+                            className="form-control"
                         ></textarea>
                         <button className="btn-main-offer contact-btn" type="submit">entre em contato</button>
                     </div>
