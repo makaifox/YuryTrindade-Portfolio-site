@@ -11,10 +11,18 @@ import Portfolio from "./components/Portfolio"
 import Testimonials from "./components/Testimonials"
 import Contacts from "./components/Contacts"
 import Footer from "./components/Footer"
+import Helmet from 'react-helmet'
+import Logo from './images/logo.png'
+
 
 function App() {
   return (
     <>
+        <Helmet>
+        <title>Yury Trindade - Desenvolvedor fullstack </title>
+        <link rel="icon" type="image/png" href={Logo} sizes="16x16" />
+      </Helmet>
+
       <Particles 
         className="particles-canvas"
         params={{
