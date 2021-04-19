@@ -50,6 +50,7 @@
   --primary-hover-red: #f33501;
   --primary-black: #000000;
   --primary-transparent-black: rgba(0,0,0,0.7);
+  --primary-green:##00ff00;
 }
 
 body {
@@ -571,7 +572,7 @@ nav ul li {
 } 
 
 .contacts textarea {
-  height: 12.4rem  !important;
+  height: 12.2rem  !important;
 
 
 }
@@ -582,3 +583,51 @@ nav ul li {
   background: none;
 }
 
+.line {
+  position:relative;
+  top: -0.9rem;
+  width: 0;
+  height: 0.125rem;
+  background: var(--primary-orange);
+  display: inline-block;
+}
+
+input:focus+.line, textarea:focus+.line {
+  width: 100%;
+  transition: width 0.5s ease-in-out;
+}
+
+input.form-control {
+  margin: -0.3rem 0 ;
+}
+
+textarea.form-control {
+  margin: -0.3rem 0 ;
+}
+
+.error-message {
+  color: var(--primary-white);
+  background: var(--primary-hover-red);
+  text-align: left;
+}
+
+.sucess-message {
+  font-weight: 900;
+  color: var(--primary-green);
+}
+/**************************************media***************************************************/
+
+@media(max-width: 768px) {
+
+  .contacts {
+    overflow-x: hidden;
+  }
+
+  .contacts .container {
+    padding: 0 1rem;
+  }
+
+  .contacts p {
+    padding: 0 0.4rem;
+  }
+}
