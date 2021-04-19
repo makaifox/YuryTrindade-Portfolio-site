@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Site_portfolio/static/css/main.733841a1.chunk.css",
+    "main.js": "/Site_portfolio/static/js/main.f6b19670.chunk.js",
+    "main.js.map": "/Site_portfolio/static/js/main.f6b19670.chunk.js.map",
+    "runtime-main.js": "/Site_portfolio/static/js/runtime-main.73c6ed8c.js",
+    "runtime-main.js.map": "/Site_portfolio/static/js/runtime-main.73c6ed8c.js.map",
+    "static/css/2.adb406d7.chunk.css": "/Site_portfolio/static/css/2.adb406d7.chunk.css",
+    "static/js/2.8267a1f4.chunk.js": "/Site_portfolio/static/js/2.8267a1f4.chunk.js",
+    "static/js/2.8267a1f4.chunk.js.map": "/Site_portfolio/static/js/2.8267a1f4.chunk.js.map",
+    "static/js/3.4348cbf5.chunk.js": "/Site_portfolio/static/js/3.4348cbf5.chunk.js",
+    "static/js/3.4348cbf5.chunk.js.map": "/Site_portfolio/static/js/3.4348cbf5.chunk.js.map",
+    "index.html": "/Site_portfolio/index.html",
+    "static/css/2.adb406d7.chunk.css.map": "/Site_portfolio/static/css/2.adb406d7.chunk.css.map",
+    "static/css/main.733841a1.chunk.css.map": "/Site_portfolio/static/css/main.733841a1.chunk.css.map",
+    "static/js/2.8267a1f4.chunk.js.LICENSE.txt": "/Site_portfolio/static/js/2.8267a1f4.chunk.js.LICENSE.txt",
+    "static/media/avatar-1.9277ecea.png": "/Site_portfolio/static/media/avatar-1.9277ecea.png",
+    "static/media/avatar-2.75d8f23e.png": "/Site_portfolio/static/media/avatar-2.75d8f23e.png",
+    "static/media/avatar-3.d6c9b46f.png": "/Site_portfolio/static/media/avatar-3.d6c9b46f.png",
+    "static/media/avatar-4.f7fb7ed7.png": "/Site_portfolio/static/media/avatar-4.f7fb7ed7.png",
+    "static/media/avatar-5.b51c3119.png": "/Site_portfolio/static/media/avatar-5.b51c3119.png",
+    "static/media/App.css": "/Site_portfolio/static/media/testimonials-bg.75612be7.jpg",
+    "static/media/city-guide-app.e4843bd0.png": "/Site_portfolio/static/media/city-guide-app.e4843bd0.png",
+    "static/media/logo.b16aad68.png": "/Site_portfolio/static/media/logo.b16aad68.png",
+    "static/media/netflix.5a78c4b9.png": "/Site_portfolio/static/media/netflix.5a78c4b9.png",
+    "static/media/portfolio.e4d369bc.png": "/Site_portfolio/static/media/portfolio.e4d369bc.png",
+    "static/media/task-manager.7cdcc29e.png": "/Site_portfolio/static/media/task-manager.7cdcc29e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73c6ed8c.js",
+    "static/css/2.adb406d7.chunk.css",
+    "static/js/2.8267a1f4.chunk.js",
+    "static/css/main.733841a1.chunk.css",
+    "static/js/main.f6b19670.chunk.js"
+  ]
+}
