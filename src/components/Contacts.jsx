@@ -159,9 +159,10 @@ const Contacts = () => {
                              {errors.mensagem && errors.mensagem.message}
                          </span>
 
-                        <button className="btn-main-offer contact-btn" type="submit">entre em contato</button>
+                        
                     </div>
                 </div>
+                <button className="btn-main-offer contact-btn" type="submit">entre em contato</button>
                 </form>
             </div>
         </div>
