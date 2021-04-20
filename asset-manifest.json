@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/YuryTrindadePortfolio/static/css/main.cd1900a1.chunk.css",
+    "main.css": "/YuryTrindadePortfolio/static/css/main.6c13ee6f.chunk.css",
     "main.js": "/YuryTrindadePortfolio/static/js/main.c290dd4b.chunk.js",
     "main.js.map": "/YuryTrindadePortfolio/static/js/main.c290dd4b.chunk.js.map",
     "runtime-main.js": "/YuryTrindadePortfolio/static/js/runtime-main.54e7d63a.js",
@@ -12,7 +12,7 @@
     "static/js/3.fef699d7.chunk.js.map": "/YuryTrindadePortfolio/static/js/3.fef699d7.chunk.js.map",
     "index.html": "/YuryTrindadePortfolio/index.html",
     "static/css/2.adb406d7.chunk.css.map": "/YuryTrindadePortfolio/static/css/2.adb406d7.chunk.css.map",
-    "static/css/main.cd1900a1.chunk.css.map": "/YuryTrindadePortfolio/static/css/main.cd1900a1.chunk.css.map",
+    "static/css/main.6c13ee6f.chunk.css.map": "/YuryTrindadePortfolio/static/css/main.6c13ee6f.chunk.css.map",
     "static/js/2.8563994a.chunk.js.LICENSE.txt": "/YuryTrindadePortfolio/static/js/2.8563994a.chunk.js.LICENSE.txt",
     "static/media/avatar-1.9277ecea.png": "/YuryTrindadePortfolio/static/media/avatar-1.9277ecea.png",
     "static/media/avatar-2.75d8f23e.png": "/YuryTrindadePortfolio/static/media/avatar-2.75d8f23e.png",
@@ -30,7 +30,7 @@
     "static/js/runtime-main.54e7d63a.js",
     "static/css/2.adb406d7.chunk.css",
     "static/js/2.8563994a.chunk.js",
-    "static/css/main.cd1900a1.chunk.css",
+    "static/css/main.6c13ee6f.chunk.css",
     "static/js/main.c290dd4b.chunk.js"
   ]
 }
