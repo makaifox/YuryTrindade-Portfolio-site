@@ -3,7 +3,6 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Particles from "react-particles-js"
 import Navbar from "./components/Navbar";
 import Header from "./components/Header";
-import { faCircle } from '@fortawesome/free-solid-svg-icons';
 import Sobre from "./components/Sobre"
 import Services from "./components/Services"
 import Experience from "./components/Experience"
