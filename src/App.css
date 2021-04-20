@@ -44,7 +44,7 @@
   --primary-light-grey: #f4f4f4;
   --primary-grey:#8c9199;
   --primary-dark-grey:#666666;
-  --primary-orange:#f9ab00;
+  --primary-orange:#34baeb;
   --primary-dark: rgb(52,58,64);
   --primary-red: #ef4035;
   --primary-hover-red: #f33501;
@@ -110,7 +110,7 @@ nav ul li {
 
 .header-wrapper {
   position: relative;
-  background: url('images/banner.png') no-repeat;
+  background: url('images/thumb-1920-559128.jpg') no-repeat;
   background-size: cover;
   background-position: center;
   height: 100vh;

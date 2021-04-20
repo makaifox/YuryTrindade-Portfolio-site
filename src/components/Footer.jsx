@@ -18,6 +18,7 @@ import {
     WhatsappIcon
     
 } from "react-share";
+import {Link} from "react-scroll";
 
 const Footer = () => {
     return (
@@ -38,18 +39,20 @@ const Footer = () => {
                     <div className="col-lg-3 col-md-2 col-sm-6">
                         <div className="row">
                             <div className="col">
-                                <a href="" className="footer-nav">HOME</a>
+                                <Link smooth={true} to="home" offset={-110} className="nav-link" href="#">Home</Link>
                                 <br/>
-                                <a href="" className="footer-nav">SOBRE MIM</a>
+                                <Link smooth={true} to="sobre" offset={-110} className="nav-link" href="#">Sobre mim</Link>
                                 <br/>
-                                <a href="" className="footer-nav">MEUS SERVIÇOS</a>
+                                <Link smooth={true} to="services" offset={-110} className="nav-link" href="#">Meus Serviços</Link>
+                                <br/>
+                                <Link smooth={true} to="services" offset={-110} className="nav-link" href="#">Meus Serviços</Link>
                             </div>
                             <div className="col">
-                                <a href="" className="footer-nav">MINHA TRAJETÓRIA</a>
+                                <Link smooth={true} to="experience" offset={-110} className="nav-link" href="#">Minha Trajetoria</Link>
                                 <br/>
-                                <a href="" className="footer-nav">PORTFÓLIO</a>
+                                <Link smooth={true} to="portfolio" offset={-110} className="nav-link" href="#">Portfólio</Link>
                                 <br/>
-                                <a href="" className="footer-nav">CONTATO</a>
+                                <Link smooth={true} to="contacts" offset={-110} className="nav-link" href="#">Contato</Link>
                             </div>
                         </div>
                     </div>
@@ -57,7 +60,7 @@ const Footer = () => {
                         <div className="d-flex justify-content-center">
     
                             <TelegramShareButton
-                                url={"https://#"}
+                                url={"https://makaifox.github.io/YuryTrindadePortfolio/"}
                                 quote={"Fullstack Developer"}
                                 hastag="#react"
                                 >
@@ -65,14 +68,14 @@ const Footer = () => {
                             </TelegramShareButton>
 
                             <LinkedinShareButton
-                                url={"https://#"}
+                                url={"https://makaifox.github.io/YuryTrindadePortfolio/"}
                                 quote={"Fullstack Developer"}
                                 hastag="#react"
                                 >
                                 <LinkedinIcon className="mx-3" size={36}/>
                             </LinkedinShareButton>
                             <WhatsappShareButton
-                                url={"https://#"}
+                                 url={"https://makaifox.github.io/YuryTrindadePortfolio/"}
                                 quote={"Fullstack Developer"}
                                 hastag="#react"
                                 >
@@ -84,7 +87,7 @@ const Footer = () => {
                 </div>
                 <div className="row  justify-content-md-center">
                 <p className="pt-3 text-center">
-                            Copyright&copy;{new Date().getFullYear()}&nbsp;|Todos os direitos reservados
+                            Copyright&copy;{new Date().getFullYear()}&nbsp;| Yury Trindade - Desenvolvedor fullstack - Todos os direitos reservados
                         </p>
                 </div>
             </div>

@@ -37,7 +37,7 @@ function App() {
               type: "circle",
               stroke: {
                 width: 6,
-                color:"#f9ab00"
+                color:"#CFD2D1"
               }
             }
           }
@@ -49,7 +49,6 @@ function App() {
       <Services />
       <Experience />
       <Portfolio />
-      <Testimonials />
       <Contacts />
       <Footer />
    </>
