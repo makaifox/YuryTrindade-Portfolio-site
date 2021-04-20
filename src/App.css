@@ -68,6 +68,9 @@ body {
 }
 
 /********MENU LINKS***********/
+.navbar {
+  z-index: 9999 !important;
+}
 
 nav a .nav-link {
   letter-spacing: 0.0375rem;
