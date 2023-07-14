@@ -1,6 +1,5 @@
-# Site Pessoal / Portfólio
+# Site Pessoal criado apenas para estudos e testes
 
-Site pessoal para divulgação de portfólio
 
 ## 🛠️ Ferramentas utilizadas
 
